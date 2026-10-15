@@ -1,0 +1,9 @@
+{
+  "name": "lana",
+  "version": "1.0.0",
+  "description": "Turn any topic into a 10-question multiple-choice Kahoot quiz, approve it in chat, then save it as one private draft in your Kahoot account.",
+  "author": {
+    "name": "tanousjoey-del"
+  },
+  "keywords": ["kahoot", "quiz", "education"]
+}
