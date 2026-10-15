@@ -1,0 +1,16 @@
+{
+  "name": "tanousjoey-del-skills",
+  "owner": {
+    "name": "tanousjoey-del"
+  },
+  "metadata": {
+    "description": "Claude Code skills by tanousjoey-del."
+  },
+  "plugins": [
+    {
+      "name": "lana",
+      "source": "./",
+      "description": "Turn any topic into a 10-question multiple-choice Kahoot quiz, approve it in chat, then save it as one private draft in your Kahoot account."
+    }
+  ]
+}
